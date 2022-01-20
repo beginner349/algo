@@ -1,4 +1,4 @@
-package algo.leetcode.Medium.Binary_Tree_Preorder_Traversal;
+package algo.leetcode.Easy.Binary_Tree_Preorder_Traversal;
 
 class TreeNode {
 	int val;

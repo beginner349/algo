@@ -1,4 +1,4 @@
-package algo.leetcode.Medium.Binary_Tree_Inorder_Traversal;
+package algo.leetcode.Easy.Binary_Tree_Inorder_Traversal;
 
 import java.util.ArrayList;
 import java.util.List;
